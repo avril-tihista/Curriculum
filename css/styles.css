@@ -1,0 +1,55 @@
+/* Header */
+
+.imgIcon{
+    display: block;
+    margin: 0 auto 0 48%;
+    padding-top: 20px;
+    width: 100px;
+}
+
+.s_info_p{
+    background-color: #E6E6E6;
+}
+
+header h1{
+    text-align: center;
+}
+
+.main-avril{
+    margin: 150px 0 273px 0;
+}
+
+/*  datos-info-exp */
+
+.info{
+    background-color: #C4C4C4;  
+    color: #005677; 
+}
+
+.datos_p{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.test{
+    display: flex;
+}
+
+.test span{
+    font-weight: bold;
+}
+
+/* footer */
+
+footer{
+    background-color: #005677;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;
+    text-align: center;
+
+}
+
+.iconos{
+    width: 30px;
+}
